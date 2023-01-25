@@ -1,10 +1,5 @@
 # timber
 
-
-
-
-
-
-
+theme for WordPress
 
 
